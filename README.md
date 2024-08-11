@@ -13,5 +13,5 @@
 libraries:
   Anime:
     metadata_files:
-      - file: config/metadata/mediux_anime.yml
+      - file: config/metadata/mediux_onepiece.yml
  ```
