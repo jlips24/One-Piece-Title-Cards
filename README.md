@@ -10,7 +10,7 @@
 
 ## Usage
 
- To use these title cards, simply place the `mediux_onepiece.yml` in your Kometa config folder and point to it in your `config.yml`. Here's a snippet to get you started, where the `mediux_onepiece.yml` file is in the dircetory `config/metadata/mediux_onepiece.yml`:
+ To use these title cards, simply place the [`mediux_onepiece.yml`](mediux_onepiece.yml) in your Kometa config folder and point to it in your `config.yml`. Here's a snippet to get you started, where the `mediux_onepiece.yml` file is in the dircetory `config/metadata/mediux_onepiece.yml`:
 
  ``` yml title="config.yml"
  # config.yml
