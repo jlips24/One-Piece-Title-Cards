@@ -33,49 +33,49 @@
 - [ ] Season 4 (48-60)
   - [ ] Loguetown
   - [ ] Warship island
-- [ ] Season 5
+- [ ] Season 5 (61-69)
   - [ ] Reverse Mountain
   - [ ] Whiskey Peak
-- [ ] Season 6
+- [ ] Season 6 (70-91)
   - [ ] Little Island
   - [ ] Drum Island
-- [ ] Season 7
+- [ ] Season 7 (92-130)
   - [ ] Arabasta
-- [ ] Season 8
+- [ ] Season 8 (131-143)
   - [ ] Post-Arabasta
   - [ ] Goat Island
   - [ ] Ruluka Island
-- [ ] Season 9
+- [ ] Season 9 (144-195)
   - [ ] Jaya
   - [ ] Skypiea
-- [ ] Season 10
+- [ ] Season 10 (196-226)
   - [ ] G8
   - [ ] Long Ring Long Land
-- [ ] Season 11
+- [ ] Season 11 (227-325)
   - [ ] Water 7
   - [ ] Ennies Lobby
-- [ ] Season 12
+- [ ] Season 12 (326-381)
   - [ ] Ice Hunter
   - [ ] Chopper Man
   - [ ] Thriller Bark
-- [ ] Season 13
+- [ ] Season 13 (382-481)
   - [ ] Sababody
   - [ ] Amazon Lily
   - [ ] Impel Down
   - [ ] Marineford
-- [ ] Season 14
+- [ ] Season 14 (482-516)
   - [ ] Marineford
   - [ ] Post-War
-- [ ] Season 15
+- [ ] Season 15 (517-578)
   - [ ] Return to Sabaody
   - [ ] Fishman Island
-- [ ] Season 16
+- [ ] Season 16 (579-628)
   - [ ] Punk Hazard
-- [ ] Season 17
+- [ ] Season 17 (629-746)
  - [ ] Dressrosa
-- [ ] Season 18
+- [ ] Season 18 (747-779)
   - [ ] Zou
-- [ ] Season 19
+- [ ] Season 19 (780-877)
   - [ ] Whole Cake Island
 - [ ] Season 20 (878-891)
   - [ ] Reverie (In progress)
