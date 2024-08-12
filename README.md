@@ -72,7 +72,7 @@
 - [ ] Season 16 (579-628)
   - [ ] Punk Hazard
 - [ ] Season 17 (629-746)
- - [ ] Dressrosa
+  S- [ ] Dressrosa
 - [ ] Season 18 (747-779)
   - [ ] Zou
 - [ ] Season 19 (780-877)
