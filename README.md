@@ -19,3 +19,67 @@
      metadata_files:
        - file: config/metadata/mediux_onepiece.yml
   ```
+
+## Project Progress
+
+- [X] Season 1 (1-8)
+   - [X] Romance Dawn
+   - [X] Orange Town
+- [ ] Season 2 (9-30)
+  - [ ] Syrup Village
+  - [ ] Baratie
+- [ ] Season 3 (31-47)
+  - [ ] Arlong Park
+- [ ] Season 4 (48-60)
+  - [ ] Loguetown
+  - [ ] Warship island
+- [ ] Season 5
+  - [ ] Reverse Mountain
+  - [ ] Whiskey Peak
+- [ ] Season 6
+  - [ ] Little Island
+  - [ ] Drum Island
+- [ ] Season 7
+  - [ ] Arabasta
+- [ ] Season 8
+  - [ ] Post-Arabasta
+  - [ ] Goat Island
+  - [ ] Ruluka Island
+- [ ] Season 9
+  - [ ] Jaya
+  - [ ] Skypiea
+- [ ] Season 10
+  - [ ] G8
+  - [ ] Long Ring Long Land
+- [ ] Season 11
+  - [ ] Water 7
+  - [ ] Ennies Lobby
+- [ ] Season 12
+  - [ ] Ice Hunter
+  - [ ] Chopper Man
+  - [ ] Thriller Bark
+- [ ] Season 13
+  - [ ] Sababody
+  - [ ] Amazon Lily
+  - [ ] Impel Down
+  - [ ] Marineford
+- [ ] Season 14
+  - [ ] Marineford
+  - [ ] Post-War
+- [ ] Season 15
+  - [ ] Return to Sabaody
+  - [ ] Fishman Island
+- [ ] Season 16
+  - [ ] Punk Hazard
+- [ ] Season 17
+ - [ ] Dressrosa
+- [ ] Season 18
+  - [ ] Zou
+- [ ] Season 19
+  - [ ] Whole Cake Island
+- [ ] Season 20 (878-891)
+  - [ ] Reverie (In progress)
+- [ ] Season 21 (892-1085)
+  - [ ] Wano Country
+- [X] Season 22 (1086-)
+  - [X] Egghead
