@@ -79,27 +79,16 @@
   - [ ] Zou
 - [ ] Season 19 (780-877)
   - [ ] Whole Cake Island
-- [ ] Season 20 (878-891)
-  - [ ] Reverie (In progress)
+- [X] Season 20 (878-891)
+  - [X] Reverie (In progress)
 - [ ] Season 21 (892-1085)
   - [ ] Wano Country
 - [X] Season 22 (1086-)
   - [X] Egghead
 
 ### Current Arc Progress
-#### Season 20 - Reverie
+#### Season 21 - Wano Country
 
-- [X] Episode 1 - The World is Stunned! The Fifth Emperor of the Sea Emerges!
-- [X] Episode 2 - To the Reverie! Gathering of the Straw Hat Allies!
-- [X] Episode 3 - Sabo Goes into Action - All the Captains of the Revolutionary Army Appear!
-- [X] Episode 4 - Going into Action! The Implacable New Admiral of the Fleet - Sakazuki!
-- [X] Episode 5 - The Summit War - Pirate King's Inherited Will
-- [X] Episode 6 - One Step Ahead of the Dream - Shirahoshi's Path to the Sun!
-- [X] Episode 7 - I Miss Him! Vivi and Rebecca's Sentiments!
-- [ ] Episode 8 - In the Dark Recesses of the Holyland! A Mysterious Giant Straw Hat!
-- [ ] Episode 9 - The Holyland in Tumult! The Targeted Princess Shirahoshi!
-- [ ] Episode 10 - An Explosive Situation! Two Emperors of the Sea Going After Luffy!
-- [ ] Episode 11 - Sabo Enraged! The Tragedy of the Revolutionary Army Officer Kuma!
-- [ ] Episode 12 - Finally, It Starts! The Conspiracy-filled Reverie!
-- [ ] Episode 13 - Marco! The Keeper of Whitebeard's Last Memento
-- [ ] Episode 14 - Climbing Up a Waterfall! A Great Journey Through the Land of Wano's Sea Zone!
+- [ ] Act 1 (Episodes 892-917)
+- [ ] Act 2 (Episodes 918-958)
+- [ ] Act 3 (Episodes 959-1085)
